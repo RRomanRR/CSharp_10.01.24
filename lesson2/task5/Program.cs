@@ -8,6 +8,7 @@ for(int i = 0; i < array.Length; i++)
         max = array[i];
     }
 }
+
 Console.WriteLine(max);
 
 foreach(int element in array)
@@ -17,4 +18,4 @@ foreach(int element in array)
         max = element;
     }
 }
-// Console.WriteLine(max);
+Console.WriteLine(max);

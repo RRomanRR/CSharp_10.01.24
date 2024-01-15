@@ -1,6 +1,6 @@
 ﻿int[] array = { 1, 2, 3, 4, 5 };
 
-for (int i = 1; i < array.Length; i = ++) ;
+for (int i = 0; i < array.Length; i++)
         {
-            Console.Write(array[i]);
+            Console.Write($"{array[i]} ");
         }
