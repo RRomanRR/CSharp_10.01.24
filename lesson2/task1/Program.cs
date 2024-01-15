@@ -1,4 +1,4 @@
-﻿int N = 100;
+﻿// int N = 100;
 int[] arr = new int[N];
 int i = 0;
 while (i < arr.Length)
